@@ -13,6 +13,24 @@ PromptVault is a comprehensive prompt engineering library that brings software e
 
 ---
 
+## 🎬 Demo
+![PromptVault Demo](demo.gif)
+
+*Prompt versioning and management*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Prompt Editor | ![editor](screenshots/prompt-editor.png) |
+| Version History | ![versions](screenshots/version-history.png) |
+| Test Results | ![tests](screenshots/test-results.png) |
+
+## Visual Description
+Prompt editor shows prompts with variable substitution. Version history displays diffs between prompt versions. Test results show evaluation metrics for prompt variants.
+
+---
+
+
 ## Table of Contents
 
 - [Features](#features)
